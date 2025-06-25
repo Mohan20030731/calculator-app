@@ -32,7 +32,7 @@ This project helps beginners understand DOM manipulation, event handling, operat
 
 ## Demo Link
 
-![Calculator Demo](https://mohan20030731.github.io/calculator-app/)
+!['https://mohan20030731.github.io/calculator-app/']
 
 ---
 

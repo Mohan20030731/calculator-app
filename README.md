@@ -32,18 +32,20 @@ This project helps beginners understand DOM manipulation, event handling, operat
 
 ## Demo Link
 
-!['https://mohan20030731.github.io/calculator-app/']
+[Click here to open the Calculator App](https://mohan20030731.github.io/calculator-app/)
 
 ---
 
 ## Folder Structure
 
-calculator/
-├── calc.png
-├── index.html
-├── README.md
-├── script.js
-└── style.css
+```bash
+#calculator/
+ # ├── calc.png
+ # ├── index.html
+ # ├── README.md
+ # ├── script.js
+ # └── style.css
+```
 
 ---
 

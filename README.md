@@ -26,13 +26,13 @@ This project helps beginners understand DOM manipulation, event handling, operat
 
 ## Screenshot
 
-![Calculator Screenshot]('/Calculator.png')
+![Calculator Screenshot](Calculator.png)
 
 ---
 
 ## Demo Link
 
-![Calculator Demo](' ')
+![Calculator Demo](https://mohan20030731.github.io/calculator-app/)
 
 ---
 
